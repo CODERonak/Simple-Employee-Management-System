@@ -1,4 +1,4 @@
-My first backend project a simple employment management system with crud operations, going to only build the backend. So will create the REST API's and use Spring Data JPA, with the H2 database. 
+My first backend project a simple employee management system with crud operations, going to only build the backend. So will create the REST API's and use Spring Data JPA, with the H2 database. 
 
 Also using the Postman for API requests
 
